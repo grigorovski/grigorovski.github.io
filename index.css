@@ -1,0 +1,18 @@
+body{
+    color:aliceblue;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+}
+a{
+    color: aliceblue;
+}
+h1{
+    color:bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
